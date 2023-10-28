@@ -1,0 +1,6 @@
+label,synonym,attnMap,sim_score,position,first
+person,freewheeler,0.29140648,76.86,1,same
+person,grinner,0.29254317,54.2,1,same
+person,laugher,0.34787428,16.19,2,bicycle
+person,unfortunate,0.3193692,2.15,3,bicycle
+person,Cancer,0.29695728,0.14,10,bicycle

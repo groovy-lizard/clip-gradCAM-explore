@@ -1,0 +1,10 @@
+['bicycle: 92.14%', 'motorbike: 5.45%', 'aeroplane: 0.57%', 'car: 0.44%', 'person: 0.37%']
+
+['cyclist: 85.94%', 'bicycle: 12.98%', 'motorbike: 0.77%', 'aeroplane: 0.08%', 'car: 0.06%']
+
+['pedaller: 91.55%', 'motorbike: 5.85%', 'aeroplane: 0.62%', 'car: 0.47%', 'person: 0.40%']
+
+['biker: 93.70%', 'motorbike: 4.38%', 'aeroplane: 0.46%', 'car: 0.35%', 'person: 0.30%']
+
+['rider: 96.29%', 'motorbike: 2.57%', 'aeroplane: 0.27%', 'car: 0.21%', 'person: 0.17%']
+
